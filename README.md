@@ -12,7 +12,7 @@ A brief description of what this project does and who it's for
 
 ## Installation
 
-clone this repo
+clone this repo and run the following command
  
 ``` bash
   cd chami-be
